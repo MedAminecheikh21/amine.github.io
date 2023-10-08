@@ -1,0 +1,162 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300&display=swap');
+
+.header {
+    font-size: 16px;
+    font-family: Arial, sans-serif;
+    color: #333;
+    text-align: left;
+    padding: 30px 100px;
+    background-color: rgb(36, 184, 184);
+    display: flex;
+    justify-content: space-around;
+    
+}
+.header-1 {
+    text-align: center;
+
+}
+.croix {
+    display: flex; 
+    align-items: center; 
+}
+.la-criox {
+    display: flex;
+    align-items: center;
+}
+p {
+    margin-right: 10px; 
+}
+
+p {
+    margin-right: 20px; 
+    font-size: 20px;
+}
+.puis-1 {
+    display: flex; 
+    align-items: center; 
+}
+p {
+    margin-right: 10px; 
+    font-size: 20px;
+
+}
+.puis-2 {
+    display: flex; 
+    align-items: center; 
+}
+p {
+    margin-right: 10px; 
+    font-size: 20px;
+
+}
+.II{
+    display: flex;
+    align-items: center;
+}
+
+
+p {
+    margin-right: 10px; 
+    font-size: 20px;
+
+}
+.forme-T {
+    display: flex;
+    align-items: center;
+}
+p {
+    margin-right: 10px; 
+    font-size: 20px;
+}
+.puis-3 {
+    display: flex;
+    align-items: center;  
+}
+p {
+    margin-right: 10px; 
+    font-size: 20px;
+}   
+.a {
+    display: flex;
+    align-items: center;    
+}
+p {
+    margin-right: 10px; 
+    font-size: 20px;
+}
+.b {
+    display: flex;
+    align-items: center;    
+}
+p {
+    margin-right: 10px; 
+    font-size: 20px;
+}
+.III-1 {
+    display: flex;
+    align-items: center;    
+}
+p {
+    margin-right: 10px; 
+    font-size: 20px;
+
+}
+.III-2 {
+    display: flex;
+    align-items: center;    
+}
+p {
+    margin-right: 10px; 
+    font-size: 20px;
+
+}
+.puis-4 {
+    display: flex;
+    align-items: center;    
+}
+p {
+    margin-right: 10px; 
+    font-size: 20px;
+
+}
+.étape-1 {
+
+    display: flex;
+    align-items: center;    
+}
+p {
+    margin-right: 10px; 
+    font-size: 20px;
+
+}
+.étape-2 {
+
+    display: flex;
+    align-items: center;    
+}
+p {
+    margin-right: 10px; 
+    font-size: 20px;
+
+}
+.last {
+    text-align: center;
+}
+footer {
+    background-image: url('your-background-image.jpg'); 
+    background-color: black; 
+    background-size: cover; 
+    color: white; 
+    text-align: center;
+    padding: 40px 0; 
+}
+
+.footer-content {
+    background-color: rgba(0, 0, 0, 0.5); 
+    padding: 20px;
+}
+
+.footer-content p {
+    margin: 0;
+}
+
